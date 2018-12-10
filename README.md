@@ -5,7 +5,7 @@
 * c)  Apakah Tuti mempunyai anak? 
 
 
-
+# 5 PERTANYAAN KING.PL
 
 
 
