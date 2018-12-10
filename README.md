@@ -6,11 +6,11 @@
 
 
 # 5 PERTANYAAN KING.PL
-* a)  siapakah pengganti rajaX?
-* b)  siapakah orangtua fahri? 
-* c)  siapa nenek Fariz? 
+* a)  Siapakah pengganti rajaX?
+* b)  Siapakah orangtua fahri? 
+* c)  Siapa nenek Fariz? 
 * d)  Siapakah orangtua arfan? 
-* e)  siapakah kakek farhan? 
+* e)  Siapakah kakek farhan? 
 
 
 
