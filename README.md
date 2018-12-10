@@ -10,7 +10,7 @@
 * b)  siapakah orangtua fahri? 
 * c)  siapa nenek Fariz? 
 * d)  Siapakah orangtua arfan? 
-* e)  siapakah kakek fahri? 
+* e)  siapakah kakek farhan? 
 
 
 
