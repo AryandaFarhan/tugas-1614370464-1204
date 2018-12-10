@@ -1,6 +1,6 @@
 # PERTANYAAN FAMILY.PL
 ---
-* a) Siapakah orangtua Basir? 
+a)  Siapakah orangtua Basir? 
 * b) Siapa nenek Siti? 
 * c) Apakah Tuti mempunyai anak? 
 
